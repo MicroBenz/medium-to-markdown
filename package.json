@@ -1,0 +1,14 @@
+{
+  "name": "medium-to-markdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MicroBenz/medium-to-markdown.git",
+  "author": "Tananan Tangthanachaikul <microbenz.prob@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.11.0",
+    "showdown": "^1.9.0",
+    "turndown": "^5.0.1",
+    "upndown": "^2.1.0"
+  }
+}
